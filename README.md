@@ -1,6 +1,6 @@
 # David Nehemia
 
-**Building systems that hold up in production — and reading the receipts afterwards.**
+**Building systems that hold up in production and reading the receipts afterwards.**
 
 Based in Indonesia · Full-stack & applied ML
 
@@ -12,10 +12,10 @@ I build web applications and machine-learning systems, and I care about the part
 
 | Project | What it is | Stack | Status |
 | --- | --- | --- | --- |
-| [**AstraQueue**](https://astra-queue.vercel.app) | Real-time school queue & leave-permission system. Public display board, admin console, violation ledger — no app server, all authorization enforced by Postgres row-level security. | React 18 · Vite · Tailwind · Supabase | Live · private repo |
+| [**AstraQueue**](https://astra-queue.vercel.app) | Real-time school queue & leave-permission system. Public display board, admin console, violation ledger (no app server; all authorization enforced by Postgres row-level security). | React 18 · Vite · Tailwind · Supabase | Live · private repo |
 | [**ChordApp**](https://chord-app-sand.vercel.app) | Chord transposer for Indonesian worship music. Charts are written once in scale-degree notation and rendered live in any of 12 keys. Single HTML file, no build step. | Vanilla JS · JSON | Live · [source](https://github.com/VidVellichor/ChordApp) |
 | **Blizy** | Campus room booking app: availability calendar, booking flow, conflict validation. Frontend production-ready, data layer backend-ready. | React 18 · TypeScript · Vite · Tailwind | Private · demo on request |
-| **Signature Verification AI** | Offline signature verification via deep metric learning — EfficientNet-B0 embeddings scored by cosine similarity. Ships with a FastAPI inference backend, a web UI, and an IEEE-style write-up. | PyTorch · FastAPI · Jupyter | Research + demo |
+| **Signature Verification AI** | Offline signature verification via deep metric learning using EfficientNet-B0 embeddings scored by cosine similarity. Ships with a FastAPI inference backend, a web UI, and an IEEE-style write-up. | PyTorch · FastAPI · Jupyter | Research + demo |
 | **Nebula** | AI study companion: turn documents, audio, and video into summaries, flashcards, and an interactive tutor. | React · Vite · Tailwind | In design |
 
 ## What I work with
@@ -36,7 +36,7 @@ Infra        Supabase (Postgres + RLS) · Vercel · Render · Git
 
 ## Beyond the terminal
 
-Competitive in Valorant, which is a reasonable amount of patience practice for debugging. I also edit video and shoot content — the same instinct applies: cut anything that doesn't earn its place.
+Competitive in Valorant, which is a reasonable amount of patience practice for debugging. I also edit video and shoot content. The same instinct applies: cut anything that doesn't earn its place.
 
 ---
 
