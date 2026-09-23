@@ -16,7 +16,7 @@ I build web applications and machine-learning systems, and I care about the part
 | [**ChordApp**](https://chord-app-sand.vercel.app) | Chord transposer for Indonesian worship music. Charts are written once in scale-degree notation and rendered live in any of 12 keys. Single HTML file, no build step. | Vanilla JS · JSON | Live · [source](https://github.com/VidVellichor/ChordApp) |
 | **Blizy** | Campus room booking app: availability calendar, booking flow, conflict validation. Frontend production-ready, data layer backend-ready. | React 18 · TypeScript · Vite · Tailwind | Private · demo on request |
 | [**FutureTry**](https://github.com/VidVellichor/bca-futuretry) | Interactive career exploration web app for high school students. Gamified mission checkpoints, experiential reflection, and interactive discovery map. | Next.js 16 · TypeScript · Tailwind · Framer Motion | Demo & prototype |
-| **Signature Verification AI** | Offline signature verification via deep metric learning using EfficientNet-B0 embeddings scored by cosine similarity. Ships with a FastAPI inference backend, a web UI, and an IEEE-style write-up. | PyTorch · FastAPI · Jupyter | Research + demo |
+| [**Signature Verification AI**](https://github.com/VidVellichor/signature-verification-ai) | Offline signature verification via deep metric learning using EfficientNet-B0 embeddings scored by cosine similarity. Ships with a FastAPI inference backend, an interactive Voilà canvas, and training pipelines. | PyTorch · FastAPI · Voilà | Live · [source](https://github.com/VidVellichor/signature-verification-ai) |
 | **Nebula** | AI study companion: turn documents, audio, and video into summaries, flashcards, and an interactive tutor. | React · Vite · Tailwind | In design |
 
 ## What I work with
