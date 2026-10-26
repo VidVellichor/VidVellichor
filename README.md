@@ -3,7 +3,13 @@
 **Full-stack development · Applied machine learning**  
 Indonesia
 
-I build web applications and experiment with machine learning, from real-time web apps to signature verification. I enjoy understanding how things work and finding simpler ways to build them.
+## About Me
+
+Hi, I’m David Nehemia Sunoto, a developer based in Indonesia. I work across web, mobile, and game development, with an interest in applied machine learning and Arduino projects.
+
+I enjoy turning ideas into something interactive, whether it’s a web app, a Flutter application, or a game in Roblox Studio and Unity. I like exploring different tools, understanding how they work, and learning through hands-on projects.
+
+Outside of coding, I edit videos, create content, and play Valorant.
 
 ## Tech stack
 
@@ -17,4 +23,3 @@ I build web applications and experiment with machine learning, from real-time we
 | **Embedded** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino (.ino)" title="Arduino (.ino)" width="22" height="22" /> Arduino (.ino) |
 | **Data / ML** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="22" height="22" /> PyTorch &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="scikit-learn" width="22" height="22" /> scikit-learn &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" title="pandas" width="22" height="22" /> pandas &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="22" height="22" /> Jupyter |
 | **Tools & cloud** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="22" height="22" /> Supabase &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="22" height="22" /> PostgreSQL &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" title="Vercel" width="22" height="22" /> Vercel &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="22" height="22" /> Git |
-
