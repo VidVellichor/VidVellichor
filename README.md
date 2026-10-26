@@ -8,17 +8,6 @@ Based in Indonesia · Full-stack & applied ML
 
 I build web applications and machine-learning systems, and I care about the part most portfolios skip: *why* the design decisions were made and what broke along the way. Recent work spans real-time queue systems with hardened database security, deep metric learning for signature verification, and zero-build tooling that runs entirely in a browser.
 
-## Currently building
-
-| Project | What it is | Stack | Status |
-| --- | --- | --- | --- |
-| [**AstraQueue**](https://astra-queue.vercel.app) | Real-time school queue & leave-permission system. Public display board, admin console, violation ledger (no app server; all authorization enforced by Postgres row-level security). | React 18 · Vite · Tailwind · Supabase | Live · private repo |
-| [**ChordApp**](https://chord-app-sand.vercel.app) | Chord transposer for Indonesian worship music. Charts are written once in scale-degree notation and rendered live in any of 12 keys. Single HTML file, no build step. | Vanilla JS · JSON | Live · [source](https://github.com/VidVellichor/ChordApp) |
-| **Blizy** | Campus room booking app: availability calendar, booking flow, conflict validation. Frontend production-ready, data layer backend-ready. | React 18 · TypeScript · Vite · Tailwind | Private · demo on request |
-| [**FutureTry**](https://github.com/VidVellichor/bca-futuretry) | Interactive career exploration web app for high school students. Gamified mission checkpoints, experiential reflection, and interactive discovery map. | Next.js 16 · TypeScript · Tailwind · Framer Motion | Demo & prototype |
-| [**Signature Verification AI**](https://github.com/VidVellichor/signature-verification-ai) | Offline signature verification via deep metric learning using EfficientNet-B0 embeddings scored by cosine similarity. Ships with a FastAPI inference backend, an interactive Voilà canvas, and training pipelines. | PyTorch · FastAPI · Voilà | Live · [source](https://github.com/VidVellichor/signature-verification-ai) |
-| **Nebula** | AI study companion: turn documents, audio, and video into summaries, flashcards, and an interactive tutor. | React · Vite · Tailwind | In design |
-
 ## What I work with
 
 ```
