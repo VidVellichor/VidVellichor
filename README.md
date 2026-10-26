@@ -18,11 +18,3 @@ I build web applications and experiment with machine learning, from real-time we
 | **Data / ML** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="22" height="22" /> PyTorch &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="scikit-learn" width="22" height="22" /> scikit-learn &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" title="pandas" width="22" height="22" /> pandas &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="22" height="22" /> Jupyter |
 | **Tools & cloud** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="22" height="22" /> Supabase &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="22" height="22" /> PostgreSQL &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" title="Vercel" width="22" height="22" /> Vercel &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="22" height="22" /> Git |
 
-## Outside of coding
-
-I play Valorant, edit videos, and create content.
-
----
-
-Open to collaborating on full-stack and applied ML projects.  
-[Explore my repositories](https://github.com/VidVellichor?tab=repositories)
