@@ -1,6 +1,7 @@
 # David Nehemia Sunoto
 
 **Full-stack development · Applied machine learning**  
+Computer Science Student
 Indonesia
 
 ## About Me
