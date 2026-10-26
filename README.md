@@ -12,7 +12,7 @@ I enjoy turning ideas into something interactive, whether it’s a web app, a Fl
 
 I’m particularly interested in AI agents, workflow automation, and integrating language models into useful tools. I enjoy experimenting with multi-agent setups and exploring how AI can support coding, research, and everyday tasks.
 
-Outside of coding, I enjoy photography, videography, video editing, and creating content. I also love playing AAA games, especially FPS and adventure titles.
+Outside of coding, I enjoy photography, videography, video editing, and creating content. I also enjoy playing music, especially guitar and bass. I also love playing AAA games, especially FPS and adventure titles.
 
 ## Tech stack
 
