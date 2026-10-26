@@ -5,9 +5,11 @@ Indonesia
 
 ## About Me
 
-Hi, I’m David Nehemia Sunoto, a developer based in Indonesia. I work across web, mobile, and game development, with an interest in applied machine learning and Arduino projects.
+Hi, I’m David Nehemia Sunoto, a developer based in Indonesia. I work across web, mobile, and game development, with an interest in artificial intelligence and Arduino projects.
 
 I enjoy turning ideas into something interactive, whether it’s a web app, a Flutter application, or a game in Roblox Studio and Unity. I like exploring different tools, understanding how they work, and learning through hands-on projects.
+
+I’m particularly interested in AI agents, workflow automation, and integrating language models into useful tools. I enjoy experimenting with multi-agent setups and exploring how AI can support coding, research, and everyday tasks.
 
 Outside of coding, I edit videos, create content, and play Valorant.
 
