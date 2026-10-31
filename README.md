@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&amp;height=200&amp;color=0%3A161b22%2C100%3A651c32&amp;text=Hi%2C+I%27m+David+Nehemia+Sunoto&amp;fontSize=34&amp;fontColor=f2c94c&amp;desc=Web%2C+Mobile+%26+AI+Enthusiast&amp;descSize=18&amp;descAlignY=72" alt="Hi, I'm David Nehemia Sunoto. Web, Mobile and AI Enthusiast." width="100%" />
+</p>
+
 # David Nehemia Sunoto
 
 **Full-stack development · Applied machine learning**  
