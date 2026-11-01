@@ -34,7 +34,7 @@ def generate():
     stats = [('PUBLIC PROJECTS', len(repos)), ('STARS', sum(r['stargazers_count'] for r in repos)), ('FORKS', sum(r['forks_count'] for r in repos))]
     body = '<text x="28" y="30" fill="#bc99aa" font-size="10" letter-spacing="2">PUBLIC WORK / REPOSITORY SNAPSHOT</text>'
     for i, (label, value) in enumerate(stats):
-        x = 28 + i * 165
+        x = 28 + i * 290
         body += f'<text x="{x}" y="78" fill="#edcf92" font-size="32" font-weight="600">{value}</text><text x="{x}" y="101" fill="#c4afbf" font-size="10" letter-spacing="1">{label}</text>'
     body += '<path d="M28 124H872" stroke="#513244"/><text x="28" y="150" fill="#e2cfae" font-size="12">Source composition</text>'
     total = sum(languages.values()) or 1
