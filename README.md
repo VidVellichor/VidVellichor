@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <a href="#about-me">About</a> &nbsp; · &nbsp;
-  <a href="#selected-projects">Projects</a> &nbsp; · &nbsp;
+  <a href="#repositories">Repositories</a> &nbsp; · &nbsp;
   <a href="#tech-stack">Stack</a> &nbsp; · &nbsp;
   <a href="#github-snapshot">GitHub</a> &nbsp; · &nbsp;
   <a href="https://linkedin.com/in/davidnehemia">LinkedIn ↗</a>
@@ -19,20 +19,9 @@ I'm David, a Computer Science student from Indonesia focused on web and mobile d
 
 I build web and Flutter apps, connect language models to useful tools, and explore game development, machine learning, and Arduino.
 
-## Selected projects
+## Repositories
 
-### ChordApp
-
-A chord-chart app for musicians who need to change keys without rewriting an arrangement. Scale-degree notation is resolved into chord names directly in the browser.
-
-**JavaScript · HTML / CSS** · [Live demo ↗](https://chord-app-sand.vercel.app) · [Source code](https://github.com/VidVellichor/ChordApp)
-
-### Signature Verification AI
-
-A signature-comparison project using EfficientNet-B0 embeddings and cosine similarity, with a FastAPI backend and training notebooks.
-
-**PyTorch · FastAPI · Jupyter** · [Source code and notebooks ↗](https://github.com/VidVellichor/signature-verification-ai)
-
+[Explore my repositories ↗](https://github.com/VidVellichor?tab=repositories)
 
 ## Tech stack
 
