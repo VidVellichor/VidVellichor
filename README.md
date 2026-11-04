@@ -25,8 +25,6 @@ I build web and Flutter apps, connect language models to useful tools, and explo
 
 A chord-chart app for musicians who need to change keys without rewriting an arrangement. Scale-degree notation is resolved into chord names directly in the browser.
 
-<a href="https://chord-app-sand.vercel.app"><img src="./assets/chordapp-preview.png" alt="ChordApp live interface with song library, key selector, notation controls and chord sheet." width="100%" /></a>
-
 **JavaScript · HTML / CSS** · [Live demo ↗](https://chord-app-sand.vercel.app) · [Source code](https://github.com/VidVellichor/ChordApp)
 
 ### Signature Verification AI
