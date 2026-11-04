@@ -33,11 +33,7 @@ A chord-chart app for musicians who need to change keys without rewriting an arr
 
 A signature-comparison project using EfficientNet-B0 embeddings and cosine similarity, with a FastAPI backend and training notebooks.
 
-<a href="https://github.com/VidVellichor/signature-verification-ai"><img src="./assets/signature-evaluation.png" alt="Existing repository evaluation figure: proposed-model confusion matrices for random impostors and skilled forgeries." width="100%" /></a>
-
-<sub>Evaluation figure from the project repository, not a live inference screenshot.</sub>
-
-**PyTorch · FastAPI · Jupyter** · [Source code and notebooks ↗](https://github.com/VidVellichor/signature-verification-ai) · [Evaluation code](https://github.com/VidVellichor/signature-verification-ai/blob/main/Model/gen_figures.py)
+**PyTorch · FastAPI · Jupyter** · [Source code and notebooks ↗](https://github.com/VidVellichor/signature-verification-ai)
 
 
 ## Tech stack
